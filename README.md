@@ -11,7 +11,7 @@ Project aims to create a Movie App.
 ## Project Skeleton
 
 ```
-└── 📁movie-app
+└── 📁MovieApp
     └── 📁public
         └── vite.svg
     └── 📁src
