@@ -6,7 +6,7 @@
   - [Problem Statement](#problem-statement)
   - [Project Skeleton](#project-skeleton)
   - [Expected Outcome](#expected-outcome)
-  - [Links](#links)
+  - [Link](#link)
   - [Objective](#objective)
   - [Steps to Solution](#steps-to-solution)
 
@@ -66,7 +66,7 @@ Project aims to create a Movie App.
 
 ![Project 006 Snapshot](movie-app.gif)
 
-## Links
+## Link
 
 <p align="left">
 <b>Check The Live Website ➡️</b> <a href="https://ilovemoviess.netlify.app/">Live Website</a>
