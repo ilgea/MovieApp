@@ -1,5 +1,15 @@
 # Project: Movie App
 
+## Contents
+
+  - [Description](#description)
+  - [Problem Statement](#problem-statement)
+  - [Project Skeleton](#project-skeleton)
+  - [Expected Outcome](#expected-outcome)
+  - [Links](#links)
+  - [Objective](#objective)
+  - [Steps to Solution](#steps-to-solution)
+
 ## Description
 
 Project aims to create a Movie App.
